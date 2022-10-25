@@ -5,7 +5,7 @@ rendu le 4/12/2022 23:59
 specs:
 -lire le csv
 -extraire les données
--parsing
+-parser/parcourir le fichier
     -nettoyages
         -supprimer toutes les lignes avec au moins une cellule vide
         -supression des colonnes ID logement
